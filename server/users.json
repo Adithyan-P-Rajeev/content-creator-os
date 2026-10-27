@@ -1,0 +1,18 @@
+[
+  {
+    "id": "adithyan",
+    "name": "Adithyan",
+    "email": "example@gmail.com",
+    "passwordHash": "097429bcfc108ef5d3f9873ec42647eb:e8a2a0392d5086487ab2dd7dfabc377de2c418273e76763fec83f1fe76d960ca1b4e43240987b250e72e070c04cbc1cacbbc61035517b89120551f1672f0b2cf",
+    "createdAt": "2026-10-11T05:35:16.177Z",
+    "journey": "Lifestyle & Vlogs"
+  },
+  {
+    "id": "adithyan-2",
+    "name": "adithyan",
+    "email": "adithyan@gmail.com",
+    "journey": "Educational & Tutorials",
+    "passwordHash": "3ed58f03bf85dd3f9a9313fd0ffd5478:a2d83be5476e1adae736f6e547dc4c1bd20e2f20c7e474c1438d1936c939894fb1a2907f6fcb0ce07e44908e000d8e21301bf1f920f4f6f4ec8c71deb2c80d08",
+    "createdAt": "2026-10-27T06:22:43.647Z"
+  }
+]

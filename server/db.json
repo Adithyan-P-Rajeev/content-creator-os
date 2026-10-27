@@ -1,0 +1,1164 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "userId": "adithyan",
+      "title": "10 Productivity Hacks for Creators",
+      "platform": "YouTube",
+      "stage": "Idea",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-09-20",
+      "dueDate": "2026-10-03",
+      "priority": "Low",
+      "tags": [
+        "tutorial",
+        "creator"
+      ],
+      "assignee": "Adithyan",
+      "platformDetails": "Long-form video",
+      "publishDate": "2026-10-04"
+    },
+    {
+      "id": "2",
+      "userId": "adithyan",
+      "title": "How I Edit Videos in Under 2 Hours",
+      "platform": "YouTube",
+      "stage": "Research",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-01",
+      "dueDate": "2026-10-12",
+      "priority": "Medium",
+      "tags": [
+        "workflow",
+        "productivity"
+      ],
+      "assignee": "Maya",
+      "platformDetails": "Short-form video",
+      "publishDate": "2026-10-14"
+    },
+    {
+      "id": "3",
+      "userId": "adithyan",
+      "title": "5 Camera Settings Every YouTuber Should Change",
+      "platform": "YouTube",
+      "stage": "Research",
+      "research": "",
+      "recordings": [],
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/gzb2ufxg/image/upload/v1792127156/content-creator-os/adithyan/3/t21wxizdwh1c4ghpmb97.jpg",
+          "publicId": "content-creator-os/adithyan/3/t21wxizdwh1c4ghpmb97"
+        }
+      ],
+      "startDate": "2026-10-04",
+      "dueDate": "2026-10-18",
+      "priority": "High",
+      "tags": [
+        "video",
+        "behind-the-scenes"
+      ],
+      "assignee": "Arjun",
+      "platformDetails": "Carousel post",
+      "publishDate": "2026-10-21"
+    },
+    {
+      "id": "4",
+      "userId": "adithyan",
+      "title": "Why My First 20 Videos Failed (And What Fixed It)",
+      "platform": "YouTube",
+      "stage": "Idea",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-09-28",
+      "dueDate": "2026-10-02",
+      "priority": "Urgent",
+      "tags": [
+        "tips",
+        "beginner"
+      ],
+      "assignee": "Nila",
+      "platformDetails": "Discussion post",
+      "publishDate": "2026-10-06"
+    },
+    {
+      "id": "5",
+      "userId": "adithyan",
+      "title": "Batch Recording Like a Professional — Full Workflow",
+      "platform": "YouTube",
+      "stage": "Idea",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-06",
+      "dueDate": "2026-10-20",
+      "priority": "Low",
+      "tags": [
+        "content-strategy",
+        "growth"
+      ],
+      "assignee": "Sam",
+      "platformDetails": "Article with images",
+      "publishDate": "2026-10-25"
+    },
+    {
+      "id": "21",
+      "userId": "adithyan",
+      "title": "I Tried Posting Daily for 30 Days — Results",
+      "platform": "TikTok",
+      "stage": "Idea",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-08",
+      "dueDate": "2026-11-07",
+      "priority": "Medium",
+      "tags": [
+        "review",
+        "tools"
+      ],
+      "assignee": "Adithyan",
+      "platformDetails": "Audio episode",
+      "publishDate": "2026-11-08"
+    },
+    {
+      "id": "22",
+      "userId": "adithyan",
+      "title": "AI Tools I Actually Use as a Creator (2026)",
+      "platform": "YouTube",
+      "stage": "Idea",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-10",
+      "dueDate": "2026-10-24",
+      "priority": "High",
+      "tags": [
+        "tutorial",
+        "creator"
+      ],
+      "assignee": "Maya",
+      "platformDetails": "Long-form video",
+      "publishDate": "2026-10-26"
+    },
+    {
+      "id": "23",
+      "userId": "adithyan",
+      "title": "How Much I Earned My First Year on YouTube",
+      "platform": "YouTube",
+      "stage": "Idea",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-12",
+      "dueDate": "2026-11-01",
+      "priority": "Urgent",
+      "tags": [
+        "workflow",
+        "productivity"
+      ],
+      "assignee": "Arjun",
+      "platformDetails": "Short-form video",
+      "publishDate": "2026-11-04"
+    },
+    {
+      "id": "24",
+      "userId": "adithyan",
+      "title": "Stop Making These 7 Thumbnail Mistakes",
+      "platform": "YouTube",
+      "stage": "Research",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-09-30",
+      "dueDate": "2026-10-04",
+      "priority": "Low",
+      "tags": [
+        "video",
+        "behind-the-scenes"
+      ],
+      "assignee": "Nila",
+      "platformDetails": "Carousel post",
+      "publishDate": "2026-10-08"
+    },
+    {
+      "id": "25",
+      "userId": "adithyan",
+      "title": "My Honest Review of CapCut Pro After 6 Months",
+      "platform": "TikTok",
+      "stage": "Idea",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-15",
+      "dueDate": "2026-10-29",
+      "priority": "Medium",
+      "tags": [
+        "tips",
+        "beginner"
+      ],
+      "assignee": "Sam",
+      "platformDetails": "Discussion post",
+      "publishDate": "2026-11-03"
+    },
+    {
+      "id": "26",
+      "userId": "adithyan",
+      "title": "How to Find Your Niche in 2026",
+      "platform": "Personal Blog",
+      "stage": "Idea",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-18",
+      "dueDate": "2026-11-08",
+      "priority": "High",
+      "tags": [
+        "content-strategy",
+        "growth"
+      ],
+      "assignee": "Adithyan",
+      "platformDetails": "Article with images",
+      "publishDate": "2026-11-09"
+    },
+    {
+      "id": "27",
+      "userId": "adithyan",
+      "title": "The Truth About Creator Burnout",
+      "platform": "Instagram",
+      "stage": "Idea",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-20",
+      "dueDate": "2026-11-05",
+      "priority": "Urgent",
+      "tags": [
+        "review",
+        "tools"
+      ],
+      "assignee": "Maya",
+      "platformDetails": "Audio episode",
+      "publishDate": "2026-11-07"
+    },
+    {
+      "id": "28",
+      "userId": "adithyan",
+      "title": "Repurposing One Video Into 10 Pieces of Content",
+      "platform": "Threads",
+      "stage": "Idea",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-22",
+      "dueDate": "2026-11-12",
+      "priority": "Low",
+      "tags": [
+        "tutorial",
+        "creator"
+      ],
+      "assignee": "Arjun",
+      "platformDetails": "Long-form video",
+      "publishDate": "2026-11-15"
+    },
+    {
+      "id": "6",
+      "userId": "adithyan",
+      "title": "My Full YouTube Studio Setup 2026",
+      "platform": "YouTube",
+      "stage": "Research",
+      "research": "Look into: Sony ZV-E10, Elgato Key Light.\nRef: https://studio.youtube.com",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-02",
+      "dueDate": "2026-10-15",
+      "priority": "Medium",
+      "tags": [
+        "workflow",
+        "productivity"
+      ],
+      "assignee": "Nila",
+      "platformDetails": "Short-form video",
+      "publishDate": "2026-10-19"
+    },
+    {
+      "id": "7",
+      "userId": "adithyan",
+      "title": "React vs Next.js — Which Should You Learn?",
+      "platform": "YouTube",
+      "stage": "Research",
+      "research": "Sources: React docs, Next.js 14 release notes, State of JS 2025.",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-05",
+      "dueDate": "2026-10-19",
+      "priority": "High",
+      "tags": [
+        "video",
+        "behind-the-scenes"
+      ],
+      "assignee": "Sam",
+      "platformDetails": "Carousel post",
+      "publishDate": "2026-10-24"
+    },
+    {
+      "id": "8",
+      "userId": "adithyan",
+      "title": "Best Royalty-Free Music Sources for Videos",
+      "platform": "YouTube",
+      "stage": "Research",
+      "research": "Check licensing terms on: YouTube Audio Library, Pixabay, Uppbeat.\nWatch out for Content ID claims.",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-07",
+      "dueDate": "2026-10-21",
+      "priority": "Urgent",
+      "tags": [
+        "tips",
+        "beginner"
+      ],
+      "assignee": "Adithyan",
+      "platformDetails": "Discussion post",
+      "publishDate": "2026-10-22"
+    },
+    {
+      "id": "9",
+      "userId": "adithyan",
+      "title": "Thumbnail Science: What Actually Gets Clicks",
+      "platform": "YouTube",
+      "stage": "Research",
+      "research": "Pull CTR stats from vidIQ / TubeBuddy case studies.\nNotes: faces, contrast, max 5 words.",
+      "recordings": [],
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/gzb2ufxg/image/upload/v1792127142/content-creator-os/adithyan/9/n5xjizozocd8alb7jeq1.jpg",
+          "publicId": "content-creator-os/adithyan/9/n5xjizozocd8alb7jeq1"
+        }
+      ],
+      "startDate": "2026-09-25",
+      "dueDate": "2026-10-01",
+      "priority": "Low",
+      "tags": [
+        "content-strategy",
+        "growth"
+      ],
+      "assignee": "Maya",
+      "platformDetails": "Article with images",
+      "publishDate": "2026-10-03"
+    },
+    {
+      "id": "10",
+      "userId": "adithyan",
+      "title": "YouTube SEO: Keywords, Tags, and Descriptions",
+      "platform": "YouTube",
+      "stage": "Research",
+      "research": "Ref: official YouTube Creator Academy SEO docs.\nTest: long-tail keywords under 500 volume.",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-09",
+      "dueDate": "2026-10-23",
+      "priority": "Medium",
+      "tags": [
+        "review",
+        "tools"
+      ],
+      "assignee": "Arjun",
+      "platformDetails": "Audio episode",
+      "publishDate": "2026-10-26"
+    },
+    {
+      "id": "29",
+      "userId": "adithyan",
+      "title": "How the YouTube Algorithm Works in 2026",
+      "platform": "YouTube",
+      "stage": "Research",
+      "research": "Sources: YouTube Blog, Creator Insider channel.\nKey signals: CTR, AVD, session time.",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-11",
+      "dueDate": "2026-10-25",
+      "priority": "High",
+      "tags": [
+        "tutorial",
+        "creator"
+      ],
+      "assignee": "Nila",
+      "platformDetails": "Long-form video",
+      "publishDate": "2026-10-29"
+    },
+    {
+      "id": "30",
+      "userId": "adithyan",
+      "title": "Best Microphones Under $200 for Talking Head",
+      "platform": "YouTube",
+      "stage": "Research",
+      "research": "Compare: Samson Q2U, Audio-Technica ATR2100x, Rode VideoMic GO II.\nNoise floor tests needed.",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-13",
+      "dueDate": "2026-10-27",
+      "priority": "Urgent",
+      "tags": [
+        "workflow",
+        "productivity"
+      ],
+      "assignee": "Sam",
+      "platformDetails": "Short-form video",
+      "publishDate": "2026-11-01"
+    },
+    {
+      "id": "31",
+      "userId": "adithyan",
+      "title": "Instagram Reels vs YouTube Shorts — Where to Post",
+      "platform": "Instagram",
+      "stage": "Research",
+      "research": "Data: median views, RPM, audience intent.\nRef: Sprout Social 2025 report.",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-14",
+      "dueDate": "2026-10-28",
+      "priority": "Low",
+      "tags": [
+        "video",
+        "behind-the-scenes"
+      ],
+      "assignee": "Adithyan",
+      "platformDetails": "Carousel post",
+      "publishDate": "2026-10-29"
+    },
+    {
+      "id": "32",
+      "userId": "adithyan",
+      "title": "Top 10 Editing Plugins for Premiere Pro",
+      "platform": "YouTube",
+      "stage": "Research",
+      "research": "List: Twixtor, Neat Video, Red Giant Universe.\nCheck bundle pricing vs monthly.",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-16",
+      "dueDate": "2026-10-30",
+      "priority": "Medium",
+      "tags": [
+        "tips",
+        "beginner"
+      ],
+      "assignee": "Maya",
+      "platformDetails": "Discussion post",
+      "publishDate": "2026-11-01"
+    },
+    {
+      "id": "33",
+      "userId": "adithyan",
+      "title": "How Much Do Sponsors Pay per 1K Views?",
+      "platform": "Personal Blog",
+      "stage": "Research",
+      "research": "Pull rates from Grapevine, Aspire, Passionfroot.\nSegment by niche (tech vs lifestyle).",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-17",
+      "dueDate": "2026-11-02",
+      "priority": "High",
+      "tags": [
+        "content-strategy",
+        "growth"
+      ],
+      "assignee": "Arjun",
+      "platformDetails": "Article with images",
+      "publishDate": "2026-11-05"
+    },
+    {
+      "id": "34",
+      "userId": "adithyan",
+      "title": "Best Free Stock Footage Sites",
+      "platform": "YouTube",
+      "stage": "Research",
+      "research": "Sites: Pexels, Pixabay, Mixkit, Coverr.\nNote license restrictions for commercial use.",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-19",
+      "dueDate": "2026-11-03",
+      "priority": "Urgent",
+      "tags": [
+        "review",
+        "tools"
+      ],
+      "assignee": "Nila",
+      "platformDetails": "Audio episode",
+      "publishDate": "2026-11-07"
+    },
+    {
+      "id": "35",
+      "userId": "adithyan",
+      "title": "Notion vs Obsidian for Content Planning",
+      "platform": "Personal Blog",
+      "stage": "Research",
+      "research": "Compare: templates, offline, mobile, price.\nCreator use cases matter more than features.",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-21",
+      "dueDate": "2026-11-06",
+      "priority": "Low",
+      "tags": [
+        "tutorial",
+        "creator"
+      ],
+      "assignee": "Sam",
+      "platformDetails": "Long-form video",
+      "publishDate": "2026-11-11"
+    },
+    {
+      "id": "11",
+      "userId": "adithyan",
+      "title": "Day in the Life of a Solo Creator",
+      "platform": "YouTube",
+      "stage": "Recordings",
+      "research": "Morning routine, work sessions.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "B-Roll"
+      ],
+      "images": [],
+      "startDate": "2026-10-03",
+      "dueDate": "2026-10-16",
+      "priority": "Medium",
+      "tags": [
+        "workflow",
+        "productivity"
+      ],
+      "assignee": "Adithyan",
+      "platformDetails": "Short-form video",
+      "publishDate": "2026-10-17"
+    },
+    {
+      "id": "12",
+      "userId": "adithyan",
+      "title": "5 Free Tools Every Creator Needs",
+      "platform": "TikTok",
+      "stage": "Recordings",
+      "research": "Tools: Canva, CapCut, Notion, Buffer.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing"
+      ],
+      "images": [],
+      "startDate": "2026-10-06",
+      "dueDate": "2026-10-20",
+      "priority": "High",
+      "tags": [
+        "video",
+        "behind-the-scenes"
+      ],
+      "assignee": "Maya",
+      "platformDetails": "Carousel post",
+      "publishDate": "2026-10-22"
+    },
+    {
+      "id": "13",
+      "userId": "adithyan",
+      "title": "Interview Script: Asking Founders the Hard Questions",
+      "platform": "Podcast",
+      "stage": "Recordings",
+      "research": "Prep 8 questions. Cold email 3 guest creators.",
+      "recordings": [
+        "Intro",
+        "Main Content"
+      ],
+      "images": [],
+      "startDate": "2026-10-08",
+      "dueDate": "2026-10-22",
+      "priority": "Urgent",
+      "tags": [
+        "tips",
+        "beginner"
+      ],
+      "assignee": "Arjun",
+      "platformDetails": "Discussion post",
+      "publishDate": "2026-10-25"
+    },
+    {
+      "id": "14",
+      "userId": "adithyan",
+      "title": "How I Plan a Month of Content in 60 Minutes",
+      "platform": "YouTube",
+      "stage": "Recordings",
+      "research": "Screen record Notion board + calendar view.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "B-Roll"
+      ],
+      "images": [],
+      "startDate": "2026-10-10",
+      "dueDate": "2026-10-24",
+      "priority": "Low",
+      "tags": [
+        "content-strategy",
+        "growth"
+      ],
+      "assignee": "Nila",
+      "platformDetails": "Article with images",
+      "publishDate": "2026-10-28"
+    },
+    {
+      "id": "15",
+      "userId": "adithyan",
+      "title": "Colour Grading a Talking Head in DaVinci Resolve",
+      "platform": "YouTube",
+      "stage": "Recordings",
+      "research": "Save a Lumetri preset. Record before/after clip.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing",
+        "B-Roll"
+      ],
+      "images": [],
+      "startDate": "2026-10-12",
+      "dueDate": "2026-10-26",
+      "priority": "Medium",
+      "tags": [
+        "review",
+        "tools"
+      ],
+      "assignee": "Sam",
+      "platformDetails": "Audio episode",
+      "publishDate": "2026-10-31"
+    },
+    {
+      "id": "36",
+      "userId": "adithyan",
+      "title": "Unboxing My New Camera — First Impressions",
+      "platform": "YouTube",
+      "stage": "Recordings",
+      "research": "Open box on desk. Compare to old camera.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "B-Roll"
+      ],
+      "images": [],
+      "startDate": "2026-10-15",
+      "dueDate": "2026-10-29",
+      "priority": "High",
+      "tags": [
+        "tutorial",
+        "creator"
+      ],
+      "assignee": "Adithyan",
+      "platformDetails": "Long-form video",
+      "publishDate": "2026-10-30"
+    },
+    {
+      "id": "37",
+      "userId": "adithyan",
+      "title": "React Tutorial for Beginners — Live Coding",
+      "platform": "YouTube",
+      "stage": "Recordings",
+      "research": "Build a counter app step by step. Screen + cam.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing"
+      ],
+      "images": [],
+      "startDate": "2026-10-18",
+      "dueDate": "2026-11-01",
+      "priority": "Urgent",
+      "tags": [
+        "workflow",
+        "productivity"
+      ],
+      "assignee": "Maya",
+      "platformDetails": "Short-form video",
+      "publishDate": "2026-11-03"
+    },
+    {
+      "id": "38",
+      "userId": "adithyan",
+      "title": "Q&A: Answering My Top 10 Subscriber Questions",
+      "platform": "Instagram",
+      "stage": "Recordings",
+      "research": "Pull questions from community tab + comments.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing"
+      ],
+      "images": [],
+      "startDate": "2026-10-20",
+      "dueDate": "2026-11-03",
+      "priority": "Low",
+      "tags": [
+        "video",
+        "behind-the-scenes"
+      ],
+      "assignee": "Arjun",
+      "platformDetails": "Carousel post",
+      "publishDate": "2026-11-06"
+    },
+    {
+      "id": "39",
+      "userId": "adithyan",
+      "title": "Before & After: My Editing Workflow Upgrade",
+      "platform": "TikTok",
+      "stage": "Recordings",
+      "research": "Show old timeline vs new. Split-screen B-roll.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "B-Roll"
+      ],
+      "images": [],
+      "startDate": "2026-09-29",
+      "dueDate": "2026-10-04",
+      "priority": "Medium",
+      "tags": [
+        "tips",
+        "beginner"
+      ],
+      "assignee": "Nila",
+      "platformDetails": "Discussion post",
+      "publishDate": "2026-10-08"
+    },
+    {
+      "id": "40",
+      "userId": "adithyan",
+      "title": "Weekend Vlog: Filming a Collab",
+      "platform": "YouTube",
+      "stage": "Recordings",
+      "research": "Shoot with guest creator. BTS + final cut.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing",
+        "B-Roll"
+      ],
+      "images": [],
+      "startDate": "2026-10-23",
+      "dueDate": "2026-11-07",
+      "priority": "High",
+      "tags": [
+        "content-strategy",
+        "growth"
+      ],
+      "assignee": "Sam",
+      "platformDetails": "Article with images",
+      "publishDate": "2026-11-12"
+    },
+    {
+      "id": "41",
+      "userId": "adithyan",
+      "title": "How I Film Talking Head Videos Alone",
+      "platform": "YouTube",
+      "stage": "Recordings",
+      "research": "Tripod setup, auto-focus tricks, lighting.",
+      "recordings": [
+        "Intro",
+        "Main Content"
+      ],
+      "images": [],
+      "startDate": "2026-10-25",
+      "dueDate": "2026-11-08",
+      "priority": "Urgent",
+      "tags": [
+        "review",
+        "tools"
+      ],
+      "assignee": "Adithyan",
+      "platformDetails": "Audio episode",
+      "publishDate": "2026-11-09"
+    },
+    {
+      "id": "42",
+      "userId": "adithyan",
+      "title": "Screen Recording Tutorial: My Exact Setup",
+      "platform": "YouTube",
+      "stage": "Recordings",
+      "research": "OBS settings, mic levels, clean desktop.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing"
+      ],
+      "images": [],
+      "startDate": "2026-10-27",
+      "dueDate": "2026-11-10",
+      "priority": "Low",
+      "tags": [
+        "tutorial",
+        "creator"
+      ],
+      "assignee": "Maya",
+      "platformDetails": "Long-form video",
+      "publishDate": "2026-11-12"
+    },
+    {
+      "id": "16",
+      "userId": "adithyan",
+      "title": "How to Grow from 0 to 1K Subscribers",
+      "platform": "YouTube",
+      "stage": "Published",
+      "research": "Covered: consistency, niche, thumbnails.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing",
+        "B-Roll"
+      ],
+      "images": [],
+      "startDate": "2026-08-10",
+      "dueDate": "2026-09-01",
+      "priority": "Medium",
+      "tags": [
+        "workflow",
+        "productivity"
+      ],
+      "assignee": "Arjun",
+      "platformDetails": "Short-form video",
+      "publishDate": "2026-09-04"
+    },
+    {
+      "id": "17",
+      "userId": "adithyan",
+      "title": "Notion Setup for Content Creators",
+      "platform": "Personal Blog",
+      "stage": "Published",
+      "research": "Template walkthrough, content calendar.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing"
+      ],
+      "images": [],
+      "startDate": "2026-08-15",
+      "dueDate": "2026-09-05",
+      "priority": "High",
+      "tags": [
+        "video",
+        "behind-the-scenes"
+      ],
+      "assignee": "Nila",
+      "platformDetails": "Carousel post",
+      "publishDate": "2026-09-09"
+    },
+    {
+      "id": "18",
+      "userId": "adithyan",
+      "title": "Studio Lighting Under ₹10,000 — Tested for Real",
+      "platform": "YouTube",
+      "stage": "Published",
+      "research": "Compared: softbox vs ring light vs window light.\nB-roll of every setup.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing",
+        "B-Roll"
+      ],
+      "images": [],
+      "startDate": "2026-08-20",
+      "dueDate": "2026-09-10",
+      "priority": "Urgent",
+      "tags": [
+        "tips",
+        "beginner"
+      ],
+      "assignee": "Sam",
+      "platformDetails": "Discussion post",
+      "publishDate": "2026-09-15"
+    },
+    {
+      "id": "19",
+      "userId": "adithyan",
+      "title": "How to Script Videos Without Feeling Fake",
+      "platform": "YouTube",
+      "stage": "Recordings",
+      "research": "Method: bullet script → teleprompter → punch up.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing"
+      ],
+      "images": [],
+      "startDate": "2026-08-25",
+      "dueDate": "2026-09-12",
+      "priority": "Low",
+      "tags": [
+        "content-strategy",
+        "growth"
+      ],
+      "assignee": "Adithyan",
+      "platformDetails": "Article with images",
+      "publishDate": "2026-09-13"
+    },
+    {
+      "id": "20",
+      "userId": "adithyan",
+      "title": "My First Year as a Full-Time Creator — What It Cost",
+      "platform": "YouTube",
+      "stage": "Published",
+      "research": "Real numbers: gear, software, months of runway.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing",
+        "B-Roll"
+      ],
+      "images": [],
+      "startDate": "2026-09-01",
+      "dueDate": "2026-09-18",
+      "priority": "Medium",
+      "tags": [
+        "review",
+        "tools"
+      ],
+      "assignee": "Maya",
+      "platformDetails": "Audio episode",
+      "publishDate": "2026-09-20"
+    },
+    {
+      "id": "43",
+      "userId": "adithyan",
+      "title": "5 Editing Tips That Instantly Improve Your Videos",
+      "platform": "TikTok",
+      "stage": "Published",
+      "research": "Pacing, sound design, jump cuts, color, titles.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing",
+        "B-Roll"
+      ],
+      "images": [],
+      "startDate": "2026-09-05",
+      "dueDate": "2026-09-20",
+      "priority": "High",
+      "tags": [
+        "tutorial",
+        "creator"
+      ],
+      "assignee": "Arjun",
+      "platformDetails": "Long-form video",
+      "publishDate": "2026-09-23"
+    },
+    {
+      "id": "44",
+      "userId": "adithyan",
+      "title": "How I Got My First Brand Deal",
+      "platform": "Instagram",
+      "stage": "Published",
+      "research": "Pitch email template, rates, negotiation notes.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing"
+      ],
+      "images": [],
+      "startDate": "2026-09-08",
+      "dueDate": "2026-09-22",
+      "priority": "Urgent",
+      "tags": [
+        "workflow",
+        "productivity"
+      ],
+      "assignee": "Nila",
+      "platformDetails": "Short-form video",
+      "publishDate": "2026-09-26"
+    },
+    {
+      "id": "45",
+      "userId": "adithyan",
+      "title": "My Exact Thumbnail Workflow (Free Tools)",
+      "platform": "YouTube",
+      "stage": "Published",
+      "research": "Canva template, A/B test method, CTR tracking.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing",
+        "B-Roll"
+      ],
+      "images": [],
+      "startDate": "2026-09-10",
+      "dueDate": "2026-09-25",
+      "priority": "Low",
+      "tags": [
+        "video",
+        "behind-the-scenes"
+      ],
+      "assignee": "Sam",
+      "platformDetails": "Carousel post",
+      "publishDate": "2026-09-30"
+    },
+    {
+      "id": "46",
+      "userId": "adithyan",
+      "title": "Why I Quit My Job to Make Videos Full-Time",
+      "platform": "YouTube",
+      "stage": "Published",
+      "research": "Story arc: decision, savings, first milestones.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing",
+        "B-Roll"
+      ],
+      "images": [],
+      "startDate": "2026-09-12",
+      "dueDate": "2026-09-28",
+      "priority": "Medium",
+      "tags": [
+        "tips",
+        "beginner"
+      ],
+      "assignee": "Adithyan",
+      "platformDetails": "Discussion post",
+      "publishDate": "2026-09-29"
+    },
+    {
+      "id": "47",
+      "userId": "adithyan",
+      "title": "Top 5 Mistakes New YouTubers Make",
+      "platform": "YouTube",
+      "stage": "Published",
+      "research": "Inconsistent uploads, no niche, bad audio.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing"
+      ],
+      "images": [],
+      "startDate": "2026-09-15",
+      "dueDate": "2026-09-30",
+      "priority": "High",
+      "tags": [
+        "content-strategy",
+        "growth"
+      ],
+      "assignee": "Maya",
+      "platformDetails": "Article with images",
+      "publishDate": "2026-10-02"
+    },
+    {
+      "id": "48",
+      "userId": "adithyan",
+      "title": "How to Write Video Titles People Click",
+      "platform": "YouTube",
+      "stage": "Published",
+      "research": "Curiosity gap, keyword placement, length limits.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing",
+        "B-Roll"
+      ],
+      "images": [],
+      "startDate": "2026-09-18",
+      "dueDate": "2026-10-01",
+      "priority": "Urgent",
+      "tags": [
+        "review",
+        "tools"
+      ],
+      "assignee": "Arjun",
+      "platformDetails": "Audio episode",
+      "publishDate": "2026-10-04"
+    },
+    {
+      "id": "49",
+      "userId": "adithyan",
+      "title": "My Content Calendar Template (Free Download)",
+      "platform": "Personal Blog",
+      "stage": "Published",
+      "research": "Notion link in description. Walkthrough video.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing"
+      ],
+      "images": [],
+      "startDate": "2026-09-20",
+      "dueDate": "2026-10-02",
+      "priority": "Low",
+      "tags": [
+        "tutorial",
+        "creator"
+      ],
+      "assignee": "Nila",
+      "platformDetails": "Long-form video",
+      "publishDate": "2026-10-06"
+    },
+    {
+      "id": "50",
+      "userId": "adithyan",
+      "title": "3 Months of Daily Posting — What I Learned",
+      "platform": "Threads",
+      "stage": "Published",
+      "research": "Stats: views, subs, burnout levels, fixes.",
+      "recordings": [
+        "Intro",
+        "Main Content",
+        "Closing",
+        "B-Roll"
+      ],
+      "images": [],
+      "startDate": "2026-09-22",
+      "dueDate": "2026-10-03",
+      "priority": "Medium",
+      "tags": [
+        "workflow",
+        "productivity"
+      ],
+      "assignee": "Sam",
+      "platformDetails": "Short-form video",
+      "publishDate": "2026-10-08"
+    },
+    {
+      "title": "he he he",
+      "stage": "Idea",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-16",
+      "dueDate": "2026-10-30",
+      "id": "wv_9X_Y9ATU",
+      "userId": "adithyan"
+    },
+    {
+      "title": "do it",
+      "stage": "Idea",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-09",
+      "dueDate": "2026-10-19",
+      "id": "JoDnKDDibLc",
+      "userId": "adithyan"
+    },
+    {
+      "id": "review",
+      "title": "review",
+      "stage": "Idea",
+      "research": "",
+      "recordings": [],
+      "images": [],
+      "startDate": "2026-10-07",
+      "dueDate": "2026-10-20",
+      "userId": "adithyan",
+      "publishDate": "",
+      "priority": "Medium",
+      "tags": [
+        "youtube"
+      ],
+      "assignee": "edvin",
+      "platform": "Instagram",
+      "platformDetails": "daaia"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
